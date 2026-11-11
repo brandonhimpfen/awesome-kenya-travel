@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Kenya, covering official tourism portals, wildlife reserves, national parks, transport, and safety guidelines.
 
+Kenya is a premier East African safari destination featuring iconic wildlife reserves, the Great Rift Valley, Mount Kenya alpine heights, and pristine Indian Ocean coastlines. This list is intended for wildlife safari travelers, nature conservationists, mountain hikers, and coastal explorers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
